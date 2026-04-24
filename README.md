@@ -89,24 +89,8 @@ The dashboard helps stakeholders understand sales performance, profitability, an
 
 ---
 
-## 🚀 How to Use
-
-1. Download the `.pbix` file
-2. Open in **Power BI Desktop**
-3. Interact with filters and visuals
-
----
-
-📌 Future Improvements
-
-* Add **customer segmentation analysis**
-* Include **forecasting models**
-* Enhance UI with advanced visuals
-
----
-
  Author
 Vansh Pundir
 
 
-बस बोल 👍
+
