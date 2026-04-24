@@ -1,6 +1,6 @@
 
 
- 📊 Business Sales Performance Analysis Dashboard
+ 📊 Business Sales Performance Analysis and Dashboard
 
 📌 Project Overview
 
